@@ -1,0 +1,19 @@
+=>an free and free source server environment
+
+=>javascript can be used on the server
+
+=>single language frontend as well as backend
+
+=>Node.js is backend 
+
+node --version
+
+npm --version
+
+npm install express --save
+
+npm i 
+
+npm i -g nodemon
+
+npm install --save-dev nodemon
